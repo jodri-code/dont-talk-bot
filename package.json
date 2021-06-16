@@ -1,0 +1,22 @@
+{
+  "name": "asdf",
+  "version": "1.0.0",
+  "description": "asdf and fdsa",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "asdf"
+  ],
+  "author": "CKS1 & Redir110",
+  "license": "ISC",
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "discord-rpc": "^3.2.0",
+    "discord.js": "^12.5.3"
+  }
+}
